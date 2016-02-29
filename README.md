@@ -1,2 +1,2 @@
 # pyboard
-miscellaneous drivers for micropython pyboard
+miscellaneous drivers and applications for micropython pyboard
